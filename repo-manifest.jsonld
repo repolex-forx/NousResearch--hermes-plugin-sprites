@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hermes-plugin-sprites/commit/a4881e07385beff6b440b5338dec7a415d5f1be5",
       "git:hexsha": "a4881e07385beff6b440b5338dec7a415d5f1be5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
