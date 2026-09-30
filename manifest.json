@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "hermes-plugin-sprites",
+  "versions": [
+    {
+      "commit": "a4881e07385beff6b440b5338dec7a415d5f1be5",
+      "parsed_at": "2026-09-30T07:09:20.199871+00:00",
+      "tag": "main",
+      "filetree": "filetree/a4881e07385beff6b440b5338dec7a415d5f1be5.nq.gz",
+      "blobs": [
+        "blob/976690d345f187dd28b5ab22026ac363ae39f0e3.nq.gz",
+        "blob/75c61823b87164dde85ad0f2c78c300e011cc8a2.nq.gz",
+        "blob/9995c6e332c87ec293f7fe3c61455110cddaf988.nq.gz",
+        "blob/32adf84dbdefff17c13d0e638dda7208a6b0e505.nq.gz",
+        "blob/2ae9848023d848f8e6eba16cbfa0c40c3b1c7aa1.nq.gz",
+        "blob/c3d3e81f8fdeab1db0aa965ae90a82bc1ffcb8cf.nq.gz",
+        "blob/2ac48efe32faa5f87521fa0605210f3f2b97470d.nq.gz",
+        "blob/72661f952f5342de7000228c4ee048a9aa888bfe.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
